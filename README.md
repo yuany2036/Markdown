@@ -7,6 +7,9 @@ is _this_ in italics? maybe, maybe not.     we will never know
 
 # ~~However we can never truly know~~
 
+>hi!
+
+
 >>all you have to decide is what to do with the time that is given to you.
 
 ```
@@ -15,5 +18,11 @@ sudo apt update
 
 ```sudo apt upgrade```
 
-```javascript:
+```javascript
 console.log("Hello")
+
+```
+
+```python
+print("Hello")
+```
