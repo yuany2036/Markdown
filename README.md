@@ -27,8 +27,19 @@ console.log("Hello")
 print("Hello")
 ```
 
-![Keyboard Shortcuts](./img/Screenshot%20from%202022-05-31%2011-14-25.png)
+[Keyboard Shortcuts](./img/Screenshot%20from%202022-05-31%2011-14-25.png)
 
-![iPhone 13](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1644969385433)
+[iPhone 13](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1644969385433)
 
 Visit [Apple's Website](https://www.apple.com/) to find out more
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Shit        | Damn        |
+
+This project supports:
+- [x] Windows
+- [ ] Linux
+- [x] iOS
